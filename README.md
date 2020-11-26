@@ -1,1 +1,1 @@
-# ATM
+Simulacija ATM bankovnog aparata.
